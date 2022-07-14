@@ -51,5 +51,6 @@
 
 ## Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmutGzl&theme=dark&background=000000)](https://git.io/streak-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutGzl&langs_count=8&layout=compact&theme=vision-friendly-dark)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=UmutGzl&count_private=true&theme=vision-friendly-dark&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutGzl&langs_count=8&layout=compact&theme=vision-friendly-dark&count_private=true)]()
 
