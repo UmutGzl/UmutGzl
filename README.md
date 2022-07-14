@@ -27,6 +27,7 @@
 <img src="https://img.icons8.com/color/48/000000/perl.png" title="Perl" />
 <img src="https://img.icons8.com/fluency/48/000000/matlab.png" title="MATLAB"/>
 <img src="https://img.icons8.com/color/48/000000/bash.png" title="Bash"/>
+<img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" size=55 width=55 title="x86 Assembly"/>
 </p>
 
 <p align="center">
@@ -49,4 +50,6 @@
 </p>
 
 ## Stats:
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutGzl&langs_count=8&theme=nightowl)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UmutGzl&theme=dark&background=000000)](https://git.io/streak-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutGzl&langs_count=8&layout=compact&theme=vision-friendly-dark)]()
+
