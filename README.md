@@ -23,6 +23,7 @@
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" />
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java" />
+<img src="https://img.icons8.com/color/48/000000/golang.png" title="GOlang"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
 <img src="https://img.icons8.com/color/48/000000/perl.png" title="Perl" />
 <img src="https://img.icons8.com/fluency/48/000000/matlab.png" title="MATLAB"/>
